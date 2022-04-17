@@ -1,1 +1,1 @@
-# Note of CurrencyCalculate
+# Note of CurrencyCalculation
